@@ -4,7 +4,7 @@
 
 ## 🔗 Демо
 
-[Пререндеренный пример](https://deni5p.github.io/green-corp-landing/)  
+[Пререндер](https://deni5p.github.io/green-corp-landing/)  
 
 ## 🧰 Технологии
 
