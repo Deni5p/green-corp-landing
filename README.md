@@ -1,4 +1,4 @@
-# 🚀 Green Corp Landing
+## 🚀 Green Corp Landing
 
 Одностраничный лендинг компании Green Corp — экологичной инициативы.
 
